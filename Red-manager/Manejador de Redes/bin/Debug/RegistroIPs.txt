@@ -1,0 +1,10 @@
+31/12/2011 05:07:25 p.m.:  El manejador ha sido inicializado 
+ Usuario: LEXA\Admin IsSystem: False
+31/12/2011 05:07:44 p.m.: El manejador ha sido cerrado 
+
+
+31/12/2011 06:09:27 p.m.:  El manejador ha sido inicializado 
+ Usuario: LEXA\RAFS IsSystem: False
+31/12/2011 06:09:30 p.m.: El manejador ha sido cerrado 
+
+

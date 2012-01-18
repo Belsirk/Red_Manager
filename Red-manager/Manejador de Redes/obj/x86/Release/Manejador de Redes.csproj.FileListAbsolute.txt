@@ -1,0 +1,18 @@
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\bin\Release\Manejador de Redes.exe.config
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\bin\Release\Manejador de Redes.exe
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\bin\Release\Manejador de Redes.pdb
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador_de_Redes.AboutBox1.resources
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador_de_Redes.conf_avanzada.resources
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador_de_Redes.form_ipaddress.resources
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador_de_Redes.Form_netsh.resources
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador_de_Redes.Form_Principal.resources
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador_de_Redes.Properties.Resources.resources
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador de Redes.exe
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador de Redes.pdb
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\bin\Release\Manejador de Redes.exe.manifest
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\bin\Release\Manejador de Redes.application
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador de Redes.exe.manifest
+C:\Users\RAFS\Documents\Visual Studio 2010\Projects\Red-manager\Manejador de Redes\obj\x86\Release\Manejador de Redes.application
