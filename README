@@ -1,0 +1,29 @@
+Este es un codigo hecho en C# que  provee ciertas herramientas para redes IP en 
+sistemas Windows. 
+
+El origen del codigo es meramente acádemico y la intención era resolver un problema en 
+laboratorios de interconexión de redes y Cisco  para los alumnos  que no iban a  llevar
+el material de CISCO (Es decir, alumnos que  tenían que llevar el curso pero no  era 
+intención de su programa especializarse en redes). 
+
+En si, la interfaz permite alterar  las dirreciones IP en una maquina windows sin riesgo
+de mensajes de errores que aparecen en Windows 7 en la GUI (Dichos errores ocurren
+cuando un usuario estandar tiene permisos adicionales de administración de redes). Ya 
+que realmente estan ejecutando comandos de NetSH.
+
+La interfaz en IPv4 puede parecer un poco redudante, pero en IPv6  en mi opinión 
+facilitar lo que posee. 
+
+Actualmente cuenta tambien con una opción de desplegar una GUI para ejecutar
+comandos NetSH.
+
+------------------------------------------------------------------
+
+El proyecto actualmente es algo redundante, pero lo considero util en Windows 7
+por los mensajes fantasmas que ocurren en el laboratorio; y planeo en un futuro
+añadirle ciertas herramientas para propositos académicos.
+
+En estos momentos, de los modulos existentes me falta el poder invocar 
+la ventana de UAC cuando se va a ejecutar una acción que requiere privilegio
+debido a que el desarrollo de aplicaciones  no es mi area de expertise así que lo 
+deje para futuros trabajos.
